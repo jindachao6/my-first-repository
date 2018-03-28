@@ -1,0 +1,30 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.main{
+    width: 100%;
+    height: 500px;
+
+}
+
+.main canvas{
+    width:450px;
+    height:450px;
+    display: block;
+    margin: 20px auto 0 auto;
+    box-shadow: -2px -2px 2px #EFEFEF, 5px 5px 5px #b9b9b9;
+
+}
+.main .btn{
+    display: block;
+    width: 450px;
+    height: 30px;
+    color: brown;
+    background-color: darkgrey;
+    text-align: center;
+    margin: 2px auto;
+    box-shadow: -2px -2px 2px #EFEFEF, 5px 5px 5px #b9b9b9;
+}
+
